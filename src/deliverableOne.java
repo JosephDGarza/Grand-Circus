@@ -1,5 +1,7 @@
 import java.util.Scanner;
+// Joseph Garza
 
+//This program is used to determine if the the series of digits equates to the sum of the following digits entered for 2 3 digit numbers.
 public class deliverableOne {
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
