@@ -3,6 +3,9 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.text.SimpleDateFormat;
 import java.time.temporal.ChronoUnit;
+//Joseph Garza
+
+//This program is used to calculate the difference of time between two dates.
 
 class deliverableTwo {
 
